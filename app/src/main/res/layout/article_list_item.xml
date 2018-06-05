@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Layout for a single list item that displays an article -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Section Name -->
+    <TextView
+        android:id="@+id/section_name"
+        style="@style/SectionName"
+        tools:text="Technology" />
+    <!-- Title -->
+    <TextView
+        android:id="@+id/title"
+        style="@style/Title"
+        tools:text="Example Article Title" />
+
+    <!-- Author name -->
+    <TextView
+        android:id="@+id/author_name"
+        style="@style/AuthorName"
+        tools:text="John Doe" />
+
+    <!-- Date/Time wrapper -->
+    <LinearLayout
+        android:id="@+id/date_time_wrapper"
+        style="@style/DateTimeWrapper">
+
+        <!-- Date -->
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Mar 6, 2010" />
+
+        <!-- Time -->
+        <TextView
+            android:id="@+id/time"
+            style="@style/Time"
+            tools:text="3:00 PM" />
+
+    </LinearLayout>
+</LinearLayout>
