@@ -21,4 +21,4 @@ When clicking on a news article in the  app, it opens the page of the original a
 </ul>
 
 ## Screenshots
-<img src="/images/Screenshot_1.png" width="320" height="640"> <img src="/images/Screenshot_2.png" width="320" height="640"> <img src="/images/Screenshot_3.png" width="320" height="640"><img src="/images/Screenshot_4.png" width="320" height="640">
+<img src="/images/Screenshot_1.png" width="320" height="640"> <img src="/images/Screenshot_2.png" width="320" height="640"> <img src="/images/Screenshot_3.png" width="320" height="640"><img src="/images/Screenshot_4.png" width="320" height="640"><img src="/images/Screenshot_5.png" width="320" height="640">
