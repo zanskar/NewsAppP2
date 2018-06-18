@@ -16,6 +16,8 @@ When clicking on a news article in the  app, it opens the page of the original a
   <li>Use of a Loader</li>
   <li>Use of Intent</li>
   <li>Use log messages to debug the app</li>
+  <li>Use of SharedPreferences</li>
+  <li>Use of FragmentsPreferences</li>
 </ul>
 
 ## Screenshots
