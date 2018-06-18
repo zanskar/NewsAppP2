@@ -3,10 +3,9 @@
 ## Description
 These are the sixth and seventh projects of the second phase of Google Developer Challenge Scholarship - Android Basics - 2017/2018, in order to obtain a nanodegree. The subject was to create a newsfeed app, displaying articles from the newspaper "The Guardian", with category, title, date of publication and author, by quering the Guardian API thanks to an internet connection. Networking operations are done using a Loader rather than an AsyncTask.
 
-Step 2 was to include a preference menu, using either a navigation drawer or a menu in the toolbar menu, in order to narrow down the list of news that we get from the feed. 
+Step 2 was to include a preference menu, using either a navigation drawer or a menu in the toolbar menu, in order to narrow down the list of news that we get from the feed. I chose to implement a menu in the toolbar menu.
 
-I chose to implement a menu in the toolbar menu, 
-When clicking on a news article in the  app, it opens the page of the original article on the Guardian newspaper. 
+When clicking on a news article in the app, it opens the web page of the original article on the Guardian website. 
 
 ## Technical points
 <ul>
